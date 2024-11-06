@@ -1,3 +1,5 @@
+A To-Do-List-React-App fully reaponsive to all devices!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
